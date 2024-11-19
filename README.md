@@ -26,3 +26,5 @@ or
     python experiments/ResNet-12/train.py
 ```
 
+# Result
+![result](img/Result.png)
