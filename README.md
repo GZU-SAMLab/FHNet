@@ -12,8 +12,8 @@ Our method is experimented on four datasets, namely CUB_200_2011, Stanford Dogs,
 
 # Trainning
 Training FHNet requires typing a command. In this example, we'll use CUB-200-2011 and ResNer-12 as our Backbone. If you need to adjust the parameters, check out trainers/trainer.py.
-'''#[python]
+```
     cd experiments/ResNet-12/train.py
-'''
+```
 
 
