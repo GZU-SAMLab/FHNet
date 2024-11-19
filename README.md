@@ -3,13 +3,15 @@ In the field of Few-shot fine-grained learning (FS-FGL), the main challenge we f
 
 # Framework
 ![项目框架](img/Framework.png)
+
 # Dataset
-Our method is experimented on four datasets, namely CUB_200_2011, Stanford Dogs, Stanford Cars, and FD-PDC. After downloading the dataset, move it to the<code>./data<\code> directory.
+Our method is experimented on four datasets, namely CUB_200_2011, Stanford Dogs, Stanford Cars, and FD-PDC. After downloading the dataset, move it to the ./data directory.
 <ul>
 <li>[FD-PDC]</li>
 </ul>
+
 # Trainning
-Training FHNet requires typing a command. In this example, we'll use CUB-200-2011 and ResNer-12 as our Backbone. If you need to adjust the parameters, check out <code>trainers/trainer.py<\code>.
+Training FHNet requires typing a command. In this example, we'll use CUB-200-2011 and ResNer-12 as our Backbone. If you need to adjust the parameters, check out trainers/trainer.py.
 """
     cd experiments/ResNet-12/train.py
 """
