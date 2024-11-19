@@ -27,4 +27,4 @@ or
 ```
 
 # Result
-![result](img/Result.png)
+![result](img/result.png)
