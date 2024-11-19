@@ -15,7 +15,7 @@ Training FHNet requires typing a command. In this example, we'll use CUB-200-201
 ```
     cd scripys
     ./ run.sh
-    # python experiments/ResNet-12/train.py
+    // python experiments/ResNet-12/train.py
 ```
 
 
