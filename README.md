@@ -13,7 +13,7 @@ You can create a new Conda environment by running the following command:
 # Dataset
 Our method is experimented on four datasets, namely CUB_200_2011, Stanford Dogs, Stanford Cars, and FD-PDC. After downloading the dataset, move it to the ./data directory.
 <ul>
-<li> FD-PDC [FD-PDC](https://drive.google.com/file/d/1TmtXcnqx6LyDgRAu1WbIBWPhvgVmg9XU/view?usp=sharing)</li>
+<li> FD-PDC [Link](https://drive.google.com/file/d/1TmtXcnqx6LyDgRAu1WbIBWPhvgVmg9XU/view?usp=sharing)[普通链接](http://bejson.com/)</li>
 </ul>
 
 # Trainning
