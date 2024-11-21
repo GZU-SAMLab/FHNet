@@ -28,3 +28,6 @@ or
 
 # Result
 ![result](img/result.png)
+
+# Heatmap
+![heatmap](img/heatmap.png)
