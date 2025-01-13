@@ -9,5 +9,5 @@
 #SBATCH --ntasks-per-node=1
 #SBATCH --cpus-per-task=24
 
-source /home/akun648/anaconda3/bin/activate TransZero
-python /home/akun648/projects/FHNet/experiments/CUB_fewshot_cropped/BiFRN/ResNet-12/train.py
+source /home/akun648/anaconda3/bin/activate FHNet
+python /home/akun648/projects/FHNet/experiments/ResNet-12/train.py
